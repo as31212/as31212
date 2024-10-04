@@ -1,5 +1,5 @@
 # 👋 Hi I'm Ahmad:
-🚀 Fullstack Software Engineer<br>🎓 Studied Business Analytics at Benedictine University in Lisle IL<br>🖥️ Visit my website at [ahmadsearcy.com](https//:ahmadsearcy.com)<br>❤️ Extremely passionate when it comes to technology
+🚀 Fullstack Software Engineer<br>🎓 Studied Business Analytics at Benedictine University in Lisle IL<br>🖥️ Visit my website at [ahmadsearcy.com](https://ahmadsearcy.com)<br>❤️ Extremely passionate when it comes to technology
 
 
 ## 🌐 Socials:
